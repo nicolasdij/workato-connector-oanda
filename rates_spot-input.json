@@ -1,0 +1,24 @@
+{
+  "data_type": "json",
+  "base": [
+    {
+      "currency": "USD"
+    },
+    {
+      "currency": "GBP"
+    }
+  ],
+  "quote": [
+    {
+      "currency": "ARS"
+    },
+    {
+      "currency": "COP"
+    },
+    {
+      "currency": "CLP"
+    }
+  ],
+  "date_time": "2023-10-10T10:00:00+01:00",
+  "interbank": "0"
+}
